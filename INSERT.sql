@@ -171,13 +171,13 @@ insert into collection_tracks (id_collection , id_list_tracks) values (5, 62)
 insert into collection_tracks (id_collection , id_list_tracks) values (5, 76)
 
 insert into collection_tracks (id_collection , id_list_tracks) values (6, 6)
-insert into collection_tracks (id_collection , id_list_tracks) values (5, 27)
-insert into collection_tracks (id_collection , id_list_tracks) values (5, 37)
-insert into collection_tracks (id_collection , id_list_tracks) values (5, 46)
-insert into collection_tracks (id_collection , id_list_tracks) values (5, 54)
-insert into collection_tracks (id_collection , id_list_tracks) values (5, 68)
-insert into collection_tracks (id_collection , id_list_tracks) values (5, )
-insert into collection_tracks (id_collection , id_list_tracks) values (5, 77)
+insert into collection_tracks (id_collection , id_list_tracks) values (6, 27)
+insert into collection_tracks (id_collection , id_list_tracks) values (6, 37)
+insert into collection_tracks (id_collection , id_list_tracks) values (6, 46)
+insert into collection_tracks (id_collection , id_list_tracks) values (6, 54)
+insert into collection_tracks (id_collection , id_list_tracks) values (6, 68)
+insert into collection_tracks (id_collection , id_list_tracks) values (6, )
+insert into collection_tracks (id_collection , id_list_tracks) values (6, 77)
 
 /*genres*/
 
