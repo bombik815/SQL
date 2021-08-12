@@ -176,7 +176,7 @@ insert into collection_tracks (id_collection , id_list_tracks) values (6, 37)
 insert into collection_tracks (id_collection , id_list_tracks) values (6, 46)
 insert into collection_tracks (id_collection , id_list_tracks) values (6, 54)
 insert into collection_tracks (id_collection , id_list_tracks) values (6, 68)
-insert into collection_tracks (id_collection , id_list_tracks) values (6, )
+insert into collection_tracks (id_collection , id_list_tracks) values (6, NULL)
 insert into collection_tracks (id_collection , id_list_tracks) values (6, 77)
 
 /*genres*/
