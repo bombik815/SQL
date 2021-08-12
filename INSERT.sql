@@ -170,6 +170,15 @@ insert into collection_tracks (id_collection , id_list_tracks) values (5, 48)
 insert into collection_tracks (id_collection , id_list_tracks) values (5, 62)
 insert into collection_tracks (id_collection , id_list_tracks) values (5, 76)
 
+insert into collection_tracks (id_collection , id_list_tracks) values (6, 6)
+insert into collection_tracks (id_collection , id_list_tracks) values (5, 27)
+insert into collection_tracks (id_collection , id_list_tracks) values (5, 37)
+insert into collection_tracks (id_collection , id_list_tracks) values (5, 46)
+insert into collection_tracks (id_collection , id_list_tracks) values (5, 54)
+insert into collection_tracks (id_collection , id_list_tracks) values (5, 68)
+insert into collection_tracks (id_collection , id_list_tracks) values (5, )
+insert into collection_tracks (id_collection , id_list_tracks) values (5, 77)
+
 /*genres*/
 
 insert into genres ("name") values ('POP')
@@ -219,7 +228,7 @@ insert into genres ("name", age) values ('Ariana Grande-Butera', 28)
 insert into genres ("name", age) values ('Lady Gaga', 35)
 insert into genres ("name", age) values ('Beyonc?', 39)
 insert into genres ("name", age) values ('Shakira', 44)
-insert into genres ("name", age) values ('Тейлор Свифт', 31)
+insert into genres ("name", age) values ('?????? ?????', 31)
 insert into genres ("name", age) values ('Freddie Mercury', 45)
 insert into genres ("name", age) values ('Montserrat Caball?', 85)
 
